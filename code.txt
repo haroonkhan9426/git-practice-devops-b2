@@ -1,2 +1,3 @@
 Feature-1 development is done via strategy-2
 Feature-2 development is completed
+Feature-3 completed
