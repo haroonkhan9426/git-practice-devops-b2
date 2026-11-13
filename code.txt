@@ -1,4 +1,0 @@
-This is feature-1
-this is feature-2
-This is feature-3
-This is feature-4
